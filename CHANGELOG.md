@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a567912`](https://github.com/stdlib-js/stdlib/commit/a567912175989cd5cef181056c8d41c8678c0087) - **docs:** fix example _(by Athan Reines)_
 -   [`2c98a80`](https://github.com/stdlib-js/stdlib/commit/2c98a808f9b2896852452a74a21ddb5da775ffd6) - **feat:** add `stats/incr/nanstdev` [(#5798)](https://github.com/stdlib-js/stdlib/pull/5798) _(by NirvedMishra, Athan Reines, stdlib-bot)_
 
 </details>
