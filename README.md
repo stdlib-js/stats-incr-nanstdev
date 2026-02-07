@@ -63,7 +63,7 @@ s = \sqrt{\frac{1}{n-1} \sum_{i=0}^{n-1} ( x_i - \bar{x} )^2}
 ## Usage
 
 ```javascript
-import incrnanstdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanstdev@deno/mod.js';
+import incrnanstdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanstdev@v0.1.1-deno/mod.js';
 ```
 
 #### incrnanstdev( \[mean] )
@@ -126,7 +126,7 @@ s = accumulator();
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@deno/mod.js';
-import incrnanstdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanstdev@deno/mod.js';
+import incrnanstdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanstdev@v0.1.1-deno/mod.js';
 
 // Initialize an accumulator:
 var accumulator = incrnanstdev();
